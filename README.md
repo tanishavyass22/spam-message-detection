@@ -11,13 +11,13 @@ This Python script contains the Streamlit code for the user interface of the cla
 # Requirements
 To run the classifier and the user interface, the following dependencies are required:
 
-Python 3.x
-Jupyter Notebook
-Streamlit
-Scikit-learn
-Pandas
-NumPy
-Nltk
+Python 3.x, 
+Jupyter Notebook. 
+Streamlit, 
+Scikit-learn, 
+Pandas, 
+NumPy, 
+Nltk, 
 Install the dependencies using pip:
 # pip install jupyter streamlit scikit-learn pandas numpy nltk
 
