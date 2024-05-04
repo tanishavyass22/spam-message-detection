@@ -12,7 +12,7 @@ This Python script contains the Streamlit code for the user interface of the cla
 To run the classifier and the user interface, the following dependencies are required:
 
 Python 3.x, 
-Jupyter Notebook. 
+Jupyter Notebook,  
 Streamlit, 
 Scikit-learn, 
 Pandas, 
@@ -26,7 +26,7 @@ Nltk
 4. Open a terminal or command prompt.
 5. Navigate to the directory containing Main.py.
 6. Run the Streamlit app by executing the following command:
-   # streamlit run Main.py
+   streamlit run Main.py
 7. Access the user interface through the provided local URL.
 8. Enter a message into the input field and click the "Predict" button to see if it's classified as spam or not.
 
