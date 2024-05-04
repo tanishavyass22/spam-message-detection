@@ -17,9 +17,7 @@ Streamlit,
 Scikit-learn, 
 Pandas, 
 NumPy, 
-Nltk, 
-Install the dependencies using pip:
-# pip install jupyter streamlit scikit-learn pandas numpy nltk
+Nltk
 
 # Usage
 1. Open spamMessageClassifier.ipynb using Jupyter Notebook.
